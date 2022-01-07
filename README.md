@@ -1,2 +1,6 @@
 [![Thomas Ventuirni - venturini.codes](./images/header.jpeg)](https://thomasventurini.com)
-![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=lightgray)
+![GitHub Views](https://komarev.com/ghpvc/?username=tjventurini&color=lightgray)
+![PHP](https://img.shields.io/badge/PHP-Professional-lightgray?logo=php)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-lightgray?logo=twitter)](https://thomasventurini.com)
+[![Blog](https://img.shields.io/badge/Blog-Follow%20me-lightgray)](https://thomasventurini.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Follow%20me-lightgray?logo=youtube)](https://www.youtube.com/channel/UChUOhfzTGv3vE6B9tJ6g9Eg)
