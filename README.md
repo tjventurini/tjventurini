@@ -8,7 +8,7 @@
 
 Hey there 👋
 
-I'm Thomas Venturini, a software developer from the **[Austria 🇦🇹](https://en.wikipedia.org/wiki/Austria)**, founder of [venturini.codes](https://venturini.codes) and blogging at [thomasventurini.com](https://thomasventurini.com). I'm interested in web and game development.
+I'm Thomas Venturini, a software developer from **[Austria 🇦🇹](https://en.wikipedia.org/wiki/Austria)**, founder of [venturini.codes](https://venturini.codes) and blogging at [thomasventurini.com](https://thomasventurini.com). I'm interested in web and game development.
 
 # 📬 Get in touch
 
